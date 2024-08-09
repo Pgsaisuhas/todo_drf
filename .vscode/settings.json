@@ -1,0 +1,7 @@
+{
+    "vsicons.associations.files": [],
+    "workbench.editor.customLabels.patterns": {
+        "*.html": "html",
+        "**/templates/**/*.html": "django-html"
+    }
+}
